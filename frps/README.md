@@ -1,5 +1,5 @@
 Frp-Server
-（copy https://raw.githubusercontent.com/clangcn/onekey-install-shell/master/frps/README.md）
+https://raw.githubusercontent.com/clangcn/onekey-install-shell/master/frps/README.md
 ===========
 ##作为frp的搬运工，我只是提供了一键安装脚本，至于使用的原理啊、功能啊、bug啊请各位移步到frp项目，我真的无能为力。
 
